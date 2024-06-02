@@ -1,8 +1,42 @@
 * {
     box-sizing: border-box;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
     padding: 20px 50px;
+    background-color: #9DDE8B;
+    color: #006769;
 }
+
+.title {
+    padding: 16px;
+    font-size: 5vw;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.recipe-list > li {
+    font-size: 3vw;
+    list-style: none;
+    margin: 24px 0;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #006769;
+    padding: 8px;
+}
+
+a:hover, a:active {
+    color: #E6FF94;
+}
+
+/* Color Pallete
+------
+#006769
+#40A578
+#9DDE8B
+#E6FF94
+------ */
