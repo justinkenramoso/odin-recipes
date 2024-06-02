@@ -1,4 +1,8 @@
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
 body {
     padding: 20px 50px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
