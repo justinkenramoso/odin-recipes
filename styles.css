@@ -4,7 +4,7 @@
 }
 
 body {
-    padding: 20px 50px;
+    padding: 0 100px 100px 100px;
     background-color: #9DDE8B;
     color: #006769;
 }
@@ -40,3 +40,7 @@ a:hover, a:active {
 #9DDE8B
 #E6FF94
 ------ */
+
+.center {
+    text-align: center;
+}
